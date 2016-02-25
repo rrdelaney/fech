@@ -1,0 +1,22 @@
+{
+  "name": "fech",
+  "version": "1.0.0",
+  "description": "Uniserval fetch function",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard | snazzy"
+  },
+  "author": "Ryan Delaney <rrdelaney@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "snazzy": "^3.0.0",
+    "standard": "^6.0.7"
+  },
+  "dependencies": {
+    "node-fetch": "^1.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrdelaney/fech.git"
+  },
+}
